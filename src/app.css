@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.attribution {
+  font-size: 12px;
+  text-align: center;
+  color: #333333;
+}
+
+.attribution a {
+  color: hsl(228, 50%, 52%);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Big Shoulders Display", cursive !important;
+}
+
+body {
+  font-family: "Lexend Deca", sans-serif !important;
+}
+
+.card {
+  min-height: 470px;
+}
